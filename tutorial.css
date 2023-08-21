@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'italic', Courier, monospace;
+    box-sizing: border-box;
+}
+:root{
+    --main-color:chocolate;
+   
+    --text-color-hover:rgb(185, 181, 181);
+    --text-color-parrafo:black;
+}
+.button-div__inicio {
+    font-size: 14px;
+    color: beige;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+title{
+    color:rgb(206, 194, 155); background-color: peru;
+}
+h1{
+  color:rgb(177, 157, 92);
+}
+p{
+    color: black;
+}
+h3{
+    color:black;
+}
+li{
+    color:black
+}
+
+
+
+
+
+
+
+ 
