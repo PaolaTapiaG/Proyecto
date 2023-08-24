@@ -1,0 +1,29 @@
+.home{
+    background-color: rgb(255, 186, 118);
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(254, 212, 179);
+    padding: 8px;
+}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.enl li{
+    text-decoration: none;
+}
+.enl li a{
+    width: 100%;
+    text-decoration: none;
+    color: rgb(139, 56, 21);
+    background-color: rgb(189, 131, 84);
+}
+.enl{
+    font-size: 1.3rem;
+    text-align: center;
+    border-color: 3xp solid red;
+}
